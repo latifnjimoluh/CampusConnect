@@ -1,2 +1,2 @@
-# CampusConnect
-Application pour mettre en reseau differents etudiants
+# CampusConnects
+ Campus connect qui depasse MK
